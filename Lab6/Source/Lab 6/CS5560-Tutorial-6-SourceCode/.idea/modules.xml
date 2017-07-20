@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CS5560-Tutorial-6-SourceCode.iml" filepath="$PROJECT_DIR$/.idea/CS5560-Tutorial-6-SourceCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OntContructor/.idea/modules/ontcontructor.iml" filepath="$PROJECT_DIR$/OntContructor/.idea/modules/ontcontructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OntContructor/.idea/modules/ontcontructor-build.iml" filepath="$PROJECT_DIR$/OntContructor/.idea/modules/ontcontructor-build.iml" />
+    </modules>
+  </component>
+</project>
